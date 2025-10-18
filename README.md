@@ -6,10 +6,6 @@ You can email me at moh-mourad@outlook.com
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/-%23ffffff.svg?logo=X&logoColor=black)](https://twitter.com/mohameddmoradd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mourad-94970419a/) 
 
-Here's a reorganized version of your tech stack with clear sub-sections. This approach groups your skills logically, making it much easier for visitors to understand your expertise at a glance.
-
-I've also removed the duplicate `Firebase` and `Apache Kafka` badges.
-
 # 💻 Tech Stack:
 
 ### 💻 Programming Languages
