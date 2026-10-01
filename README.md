@@ -29,7 +29,7 @@ You can email me at moh-mourad@outlook.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-Mourad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mourad&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Mourad&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohamed-Mourad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
